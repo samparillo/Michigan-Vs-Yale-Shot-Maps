@@ -14,4 +14,4 @@ To interact with all the charts and their filters, open ShotChartsDashboard.tbw 
 
 
 ![Map 4](./ShotChartImages/Map4.png)
-(All shot by Michigan)
+(All shots by Michigan)
