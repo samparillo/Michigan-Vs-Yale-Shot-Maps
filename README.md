@@ -1,6 +1,6 @@
 # Michigan-Vs-Yale-Shot-Maps
-Shooting maps I created on Tableau for the lacrosse match between Michigan and Yale on March 3, 2020.
-To interact with the charts and their filters, open ShotChartsDashboard.tbw in Tableau. The dataset used was MichiganYale.xlsx.
+Some examples of shooting maps I created on Tableau for the lacrosse match between Michigan and Yale on March 3, 2020.
+To interact with all the charts and their filters, open ShotChartsDashboard.tbw in Tableau. The dataset used was MichiganYale.xlsx.
 ![Map 1](./ShotChartImages/Map1.png)
 (All left handed shots by Yale)
 
